@@ -10,5 +10,5 @@
 <h1 style="color:#800000"> <b> How Do You Make Henna? </b></h1>
 <p> Traditional henna is made from the leaves of the henna tree (also known as mignonette tree or Egyptian privet). You must first dry the henna leaves, powder it, sift it, and mix it with watter before it is ready to use. Modern henna cones often contain combiners like xantham gum and other essential oils. </p>
 <h2 style="color:#800000"> Examples </h2>
-<img src="[https://plus.unsplash.com/premium_photo-1661862397518-8e50332b6e97?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D](https://media.istockphoto.com/id/178086008/photo/mehndi.jpg?s=2048x2048&w=is&k=20&c=4QeZnbirAZhLqLAnk6HP1-f0PxqkNsTFbWpZvnNNpJM=)" alt="Henna artist applying design" 
-  style="display:block;margin:20px width:200px:60%;heightborder-radius:15px;"
+<img src="https://media.istockphoto.com/id/178086008/photo/mehndi.jpg?s=2048x2048&w=is&k=20&c=4QeZnbirAZhLqLAnk6HP1-f0PxqkNsTFbWpZvnNNpJM=" alt="Henna artist applying design" 
+  style="display:block;margin:20px width:200px:60%;heightborder-radius:15px;" >
