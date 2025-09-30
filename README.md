@@ -1,8 +1,9 @@
 <html>
 <head>
-<title> <strong> HENNA 101 </strong>  </title>
+<title> <strong> HENNA 101 </strong> </title>
 </head> 
 <body> 
+<h1> <strong> HENNA 101 </strong> </h1>
 <h1 style="color:#800000;">  History of Henna </h1>
 <p> Henna is known as the oldest form of body art and originated in India around 3000 BCE. The word henna is derived from the Sanskrit word Mendhika and was then shortened to mehndhi/henna. Henna has been used for centuries in North Africa, the Middle East, and South Asia. 
 <h1 style="color:#800000;"> Significance </h1>
@@ -14,3 +15,5 @@
   style="display:block;margin:20px width:100px:40%;heightborder-radius:15px;" >
 <img src="https://media.istockphoto.com/id/899259604/photo/raw-organic-powder-of-henna-lawsonia-inermis-in-a-clay-bowl-with-its-dry-leaves-on-wooden.jpg?s=612x612&w=is&k=20&c=0Kko7CpJmK2BHCqeGY1eI4bIN2y_8M-BIWIeagR5LXs=" alt="Henna dried henna powder" 
   style="display:block;margin:20px width:100px:40%;heightborder-radius:15px;" >
+<h3 style="color:#800000;"> Support Local Artists </h3>
+<p> Now, I know what you must be thinking, where can I get this amazing henna??? Well look no further, I introduce you to Ms. Hadia Amir. She is an amazing henna artist who has over 25+ years of experience at the rip age of 14. She does extraordinary work and can complete full bridal henna in less then 1 second. She charges a very meager fee of $1000000000000 and the henna stain lasts for 3 full, calendar years. If you are interested in reaching our to her, please <a href="https://hadia-amir.github.io/" style="font size:40px"> CLICK HERE </a>. Thank you for your support </p>
