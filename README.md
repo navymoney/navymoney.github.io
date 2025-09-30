@@ -12,3 +12,5 @@
 <h2 style="color:#800000;"> Examples </h2>
 <img src="https://media.istockphoto.com/id/178086008/photo/mehndi.jpg?s=2048x2048&w=is&k=20&c=4QeZnbirAZhLqLAnk6HP1-f0PxqkNsTFbWpZvnNNpJM=" alt="Henna artist applying design" 
   style="display:block;margin:20px width:100px:40%;heightborder-radius:15px;" >
+<img src="https://media.istockphoto.com/id/899259604/photo/raw-organic-powder-of-henna-lawsonia-inermis-in-a-clay-bowl-with-its-dry-leaves-on-wooden.jpg?s=612x612&w=is&k=20&c=0Kko7CpJmK2BHCqeGY1eI4bIN2y_8M-BIWIeagR5LXs=" alt="Henna dried henna powder" 
+  style="display:block;margin:20px width:100px:40%;heightborder-radius:15px;" >
